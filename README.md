@@ -1,3 +1,6 @@
+Assignment 3 part 1 for 10-703 Deep Reinforcement Learning and Control - CMU
+
+
 This repository contains 2 Python scripts for solving the LunarLander-v2 openai gym
 environment using deep reinforcement learning algorithms: REINFORCE algorithm (without baseline) is found in reinforce.py; 
 N-step Advantage Actor-Critic algorithm found in a2c.py
